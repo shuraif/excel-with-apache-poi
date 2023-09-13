@@ -81,6 +81,3 @@ Contributions to **excel-with-apache-poi** are welcome. If you have suggestions,
 
 This project is licensed under the [MIT License](LICENSE).
 
----
-
-Feel free to further customize this README template with additional information about your application, such as endpoints, features, or specific usage examples.
