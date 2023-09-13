@@ -28,7 +28,7 @@ Before you start using **excel-with-apache-poi**, make sure you have the followi
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/your-username/excel-with-apache-poi.git
+   git clone https://github.com/shuraif/excel-with-apache-poi.git
    ```
 
 2. Build the project using Maven:
