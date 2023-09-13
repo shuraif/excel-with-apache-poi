@@ -8,7 +8,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Configuration](#configuration)
 - [Example](#example)
 - [Contributing](#contributing)
 - [License](#license)
@@ -53,13 +52,6 @@ To use **excel-with-apache-poi** to read and print Excel files, follow these ste
 3. Access the application through a web browser or API client.
 
 4. Upload an Excel file, and the application will read and print its contents.
-
-## Configuration
-
-You can configure the application by editing the `application.properties` file or using environment variables. Here are the key configuration properties:
-
-- `excel.folder.path`: The directory where Excel files are stored.
-- Add any other custom configuration as needed.
 
 ## Example
 
